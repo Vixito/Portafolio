@@ -1,8 +1,8 @@
 # Portfolio
 
-This is my own professional portfolio that symbolizes my root project as a programmer or Full Stack developer.
+Este es mi propio portafolio profesional que simboliza mi proyecto raíz como programador o desarrollador Full Stack.
 
-[Spanish version](README_es.md)
+[Versión en inglés](README.md)
 
 ## Technologies Used
 
