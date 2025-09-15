@@ -21,19 +21,20 @@ This is my own professional portfolio that symbolizes my root project as a progr
 13. Cloudflare Pages
 14. AWS
 15. Nginx
-16. PostgreSQL
-17. Prisma
-18. Content-collections
-19. NextAuth.js
-20. Patterncraft
-21. Vitest
-22. Sentry
-23. Figma
-24. Motion.dev
-25. Notion
-26. cdnjs
-27. Visual Studio Code
-28. Git
-29. GitHub
-30. Claude Code
-31. JSON
+16. Vercel
+17. PostgreSQL
+18. Prisma
+19. Content-collections
+20. NextAuth.js
+21. Patterncraft
+22. Vitest
+23. Sentry
+24. Figma
+25. Motion.dev
+26. Notion
+27. cdnjs
+28. Visual Studio Code
+29. Git
+30. GitHub
+31. Claude Code
+32. JSON
