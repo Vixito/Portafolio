@@ -15,8 +15,5 @@
     "typescript"
   ],
   "license": "ISC",
-  "type": "commonjs",
-  "dependencies": {
-    "typescript": "^5.9.2"
-  }
+  "type": "commonjs"
 }

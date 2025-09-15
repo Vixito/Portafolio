@@ -1,5 +1,5 @@
 {
-  "name": "vixis-portfolio-frontend",
+  "name": "frontend",
   "author": "Vixis",
   "type": "module",
   "version": "0.0.1",
@@ -10,8 +10,7 @@
     "vixis",
     "frontend",
     "cliente",
-    "client",
-    "zzz"
+    "client"
   ],
   "scripts": {
     "dev": "astro dev",
@@ -22,11 +21,6 @@
   "dependencies": {
     "@astrojs/react": "^4.3.1",
     "@tailwindcss/vite": "^4.1.13",
-    "@types/react": "^19.1.13",
-    "@types/react-dom": "^19.1.9",
-    "astro": "^5.13.7",
-    "react": "^19.1.1",
-    "react-dom": "^19.1.1",
-    "tailwindcss": "^4.1.13"
+    "astro": "^5.13.7"
   }
 }
