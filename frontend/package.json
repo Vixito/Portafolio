@@ -1,0 +1,16 @@
+{
+  "author": "Vixis",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Portafolio de Vixis del lado del cliente",
+  "keywords": [
+    "portafolio",
+    "portfolio",
+    "vixis",
+    "frontend",
+    "cliente",
+    "client",
+    "zzz"
+  ],
+  "main": "src/index.js"
+}

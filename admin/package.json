@@ -1,0 +1,19 @@
+{
+  "author": "Vixis",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Admin Panel for Vixis Portfolio",
+  "keywords": [
+    "portafolio",
+    "portfolio",
+    "vixis",
+    "admin",
+    "administrador",
+    "administrator",
+    "cms",
+    "panel",
+    "control",
+    "zzz"
+  ],
+  "main": "src/index.js"
+}
