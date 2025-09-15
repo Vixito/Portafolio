@@ -1,4 +1,4 @@
-# Portfolio
+# Portafolio
 
 Este es mi propio portafolio profesional que simboliza mi proyecto raíz como programador o desarrollador Full Stack.
 
